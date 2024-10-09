@@ -1,5 +1,5 @@
 from load_my_model import load_my_checkpoint
-from pre_process import process_image
+from preprocess import process_image
 from my_label_mapping import get_label_map
 
 import torch
